@@ -1,13 +1,17 @@
-# Project Name
+# Insta Clone
 
-Write a small description of your project
-
+A clone of instagram for artists
 
 > This project was built as a part ot [PythonToProject Bootcamp](https://bhavaniravi.gumroad.com/l/LaFSj)
 
 ## Feature list
 
-
+- Ability to upload photos of paintings
+- write a long description of painting
+- Ability for users to comment on the painting and then reveal artists description
+- Ability add materials used
+- Which means it needs a repository of famous art materials
+- Filter content based on artist style abstract, watercolor.....
 ## Architecture/Flow Diagram
 
 
